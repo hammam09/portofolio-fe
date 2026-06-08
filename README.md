@@ -1,84 +1,102 @@
-# 🚀 HammamDev Portfolio
+# ⚡ HammamDev — Personal Portfolio Website
 
-Welcome to my personal portfolio website!
+Ini adalah website portfolio pribadi saya yang bernama **HammamDev**, dibuat untuk menampilkan identitas saya sebagai Frontend Developer, serta sebagai tempat showcase project, skill, dan perjalanan belajar saya di dunia web development.
 
----
-
-## 👨‍💻 About Me
-
-Hi! I'm Hammam, a passionate **Junior Frontend Developer** who enjoys building modern, responsive, and user-friendly web interfaces.
-
-I love turning ideas into real digital products using clean code and simple design principles.
+🔗 Live Website: https://hammamdev.netlify.app  
+💻 Repository: https://github.com/hammam09/portofolio-fe.git  
 
 ---
 
-## 🌐 About This Project
+## 🚀 Tentang Project
 
-This portfolio is built to showcase my:
+**HammamDev** adalah website personal yang saya buat untuk:
 
-✨ Skills  
-📁 Projects  
-📈 Learning journey  
-📬 Contact information  
+- Menampilkan profil saya sebagai developer  
+- Menunjukkan skill yang saya kuasai  
+- Menampilkan project yang pernah saya buat  
+- Memberikan informasi kontak untuk kolaborasi  
 
-The focus of this project is to create a **modern, responsive, and professional developer profile website**.
+Website ini dibuat dengan konsep **simple, modern, clean, dan responsive** agar nyaman diakses di semua perangkat.
+
+---
+
+## 🧠 Tujuan Pembuatan
+
+Project ini dibuat bukan hanya sebagai tugas atau latihan, tetapi sebagai:
+
+- Identitas digital saya sebagai developer  
+- Media untuk menunjukkan perkembangan skill  
+- Portfolio yang bisa digunakan secara profesional  
+- Langkah awal membangun personal branding di dunia tech  
 
 ---
 
 ## ⚙️ Tech Stack
 
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla)  
-- Responsive Web Design  
-- Netlify Deployment  
+Project ini dibangun menggunakan teknologi dasar frontend:
+
+- HTML — struktur website  
+- CSS — styling dan layout responsive  
+- JavaScript — interaksi dasar  
+- Netlify — deployment hosting  
 
 ---
 
-## 🎯 Features
+## ✨ Fitur Website
 
-✔️ Fully responsive layout  
-✔️ Clean and modern UI design  
-✔️ Smooth navigation  
-✔️ Project showcase section  
-✔️ About & contact section  
-✔️ Fast and lightweight performance  
-
----
-
-## 📁 Project Structure
-
-|── index.html ──|
-|── style.css ──|
-|── script.js ──|
-|── README.md ──|
+- Tampilan landing page modern  
+- Section Home, About, Skills, Projects, Contact  
+- Responsive di mobile, tablet, dan desktop  
+- UI sederhana dan mudah dibaca  
+- Navigasi smooth antar section  
+- Loading cepat dan ringan  
 
 ---
 
-## 🚀 Deployment
+## 📁 Struktur Project
 
-Deployed using **Netlify** for fast and reliable hosting.
-
-🔗 Live: https://hammamdev.netlify.app
-
----
-
-## 📌 Future Improvements
-
-- Dark mode support 🌙  
-- Improved animations and transitions ✨  
-- Blog section 📝  
-- Enhanced SEO optimization  
-- Contact form integration  
+- index.html → Struktur utama website
+- style.css → Styling dan desain UI
+- script.js → Interaksi dan fungsi JavaScript
+- assets → Gambar dan resource tambahan
 
 ---
 
-## ⭐ Support
+## 📈 Pembelajaran dari Project Ini
 
-If you like this project, don’t forget to give it a ⭐ on GitHub!
+Dari project ini saya belajar:
+ 
+- Responsive design menggunakan CSS  
+- Dasar JavaScript untuk interaksi UI  
+- Cara deploy website ke Netlify  
+- Pentingnya struktur project yang rapi  
 
 ---
 
-## 🧠 License
+## 🚀 Pengembangan Selanjutnya
 
-This project is open-source and available under the MIT License.
+Project ini masih akan terus dikembangkan, seperti:
+
+- Menambahkan animasi yang lebih smooth  
+- Dark mode toggle 🌙  
+- Optimasi UI/UX lebih lanjut  
+- Penambahan blog atau artikel  
+- Integrasi form contact yang lebih interaktif  
+
+---
+
+## 📬 Kontak
+
+Jika ingin berkolaborasi atau berdiskusi:
+
+- 🌐 Website: https://hammamdev.netlify.app  
+- 💻 GitHub: https://github.com/hammam09  
+- 📧 Email: mmamm0403@gmail.com
+
+---
+
+## ⭐ Penutup
+
+Project ini adalah langkah awal saya dalam membangun karier sebagai Frontend Developer.
+
+Saya akan terus belajar, berkembang, dan membangun lebih banyak project yang lebih baik ke depannya.
