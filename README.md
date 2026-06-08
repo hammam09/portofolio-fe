@@ -47,8 +47,11 @@ The focus of this project is to create a **modern, responsive, and professional 
 ---
 
 ## 📁 Project Structure
-|Index.html|Style.css|Script.js
 
+|── index.html ──|
+|── style.css ──|
+|── script.js ──|
+|── README.md ──|
 
 ---
 
