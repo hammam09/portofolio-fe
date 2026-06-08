@@ -2,8 +2,6 @@
 
 Welcome to my personal portfolio website!
 
-🔗 Live Website: https://hammamdev.netlify.app
-
 ---
 
 ## 👨‍💻 About Me
@@ -49,3 +47,35 @@ The focus of this project is to create a **modern, responsive, and professional 
 ---
 
 ## 📁 Project Structure
+|Index.html|Style.css|Script.js
+
+
+---
+
+## 🚀 Deployment
+
+Deployed using **Netlify** for fast and reliable hosting.
+
+🔗 Live: https://hammamdev.netlify.app
+
+---
+
+## 📌 Future Improvements
+
+- Dark mode support 🌙  
+- Improved animations and transitions ✨  
+- Blog section 📝  
+- Enhanced SEO optimization  
+- Contact form integration  
+
+---
+
+## ⭐ Support
+
+If you like this project, don’t forget to give it a ⭐ on GitHub!
+
+---
+
+## 🧠 License
+
+This project is open-source and available under the MIT License.
